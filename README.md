@@ -1,10 +1,10 @@
-# <img align="left" alt="Tizza" width="40px" src="https://tizza.tk/uploads/main/a8ecd2778d738edd16839bdb6cccb22d.png" draggable="false" /> Tizza ([Click to try 🚀](https://tizza.tk/))
+# <img align="left" alt="Tizza" width="100px" src="https://tizza.tk/uploads/main/a8ecd2778d738edd16839bdb6cccb22d.png" draggable="false" /> Tizza ([Click to try 🚀](https://tizza.tk/))
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Create your own vCard 🪪 quickly and easily with Tizza 🚀 and get meaningful analyzes of the visitors. 📊
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Tizza/blob/main/changelog.md)** **Check out the full Tizza changelog**
+## **[Changelog 📊](https://github.com/linkspreed/Tizza/blob/main/changelog.md)** **Check out the full Tizza changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Tizza/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Tizza besides development**
 
 

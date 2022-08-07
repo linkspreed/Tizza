@@ -1,11 +1,11 @@
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
+# <img align="left" alt="Tizza" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Tizza ([Click to try 🚀](https://tizza.tk/))
 
 Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 💙](https://github.com/linkspreed/Tizza/blob/main/changelog.md)** **Check out the full Tizza changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Tizza/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Tizza besides development**
 
 
 <div align="center">
@@ -52,7 +52,7 @@ Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for you
 
 ## More
  
-Analytix is **free**, **real-time** and with **unlimited** resources 
+Tizza is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -63,22 +63,22 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Analytix freely and use all features to an unlimited extent.
+ You can enjoy Tizza freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
 
 ### Privacy focused web analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/1.PNG" draggable="false" />
 
 ### Analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/2.PNG" draggable="false" />
 
 ### Register now
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/3.PNG" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/4.PNG" draggable="false" />
 
 ### Add a new website
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/5.PNG" draggable="false" />

@@ -63,11 +63,11 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ### Create your account
 <img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/2.PNG" draggable="false" />
 
-### Demo vCard
+### What you can do ...
 <img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/3.PNG" draggable="false" />
 
 ### Dashboard
 <img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/4.PNG" draggable="false" />
 
-### Start now ...
+### Demo vCard
 <img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/5.PNG" draggable="false" />

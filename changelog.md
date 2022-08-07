@@ -1,180 +1,128 @@
-# 3.3.0 — 18 July 2022
- - Added the ability to change the default Do Not Track option on tracking codes
- - Added the ability to change the Email Reports to Monthly or Weekly
- - Improved the cron jobs system
- - Fixed search not working on User Dashboard and the Websites API endpoint
- - Other minor improvements
+# Update 9.0.0 - 4 May, 2022
+Implemented the ability to enable/disable auto language detection via the admin panel.
+Implemented the ability to set a different logo base on the theme style (dark or light).
+Implemented the ability to set a different logo for emails.
+Implemented the ability to reset vcard statistics.
+Implemented RTL support for emails & improved the email templates looks.
+Implemented the ability to create multi-language pages from the admin panel.
+Implemented an anti-phishing system code for emails sent out to users by the system.
+Implemented the TikTok pixel in the Pixels system.
+Contact form, you can now reply-to via your email client directly via the sent email.
+Resend activation page will now be disabled if the email confirmation setting is disabled.
+Reworked and improved the Sitemap to include more pages, dynamically.
+Improved the pages resources center UI & fixed small bugs.
+Reworked and improved the language & dark mode switcher.
+Fixed Mollie annual payments not processing correctly.
+Fixed reset password not working for some particular emails & not logging the user in after the password change.
+Fixed bug when logging in with a custom language set, yet the user has another language to his account.
+Fixed admin impersonation of user logout not working properly.
 
-# 3.2.0 — 7 July 2022
- - Improved adding new Website process: URL protocol is no longer required
- - Improved the API Documentation
- - Other minor improvements
+# Update 8.0.0 - 29 March, 2022
+Implemented the Teams system & released the 👨‍💻 Teams Plugin.
+Implemented cookie consent logging feature to store proof of given consent.
+Implemented cookie consent logging export to CSV.
+Implemented cookie consent on vcard pages as well.
+Implemented cookie consent settings link in the footer, so that people can change their given consent at all times.
+Implemented the ability to generate discount/redeemable codes in bulk via the admin panel.
+Implemented new dedicated code redeeming page.
+Implemented Paddle payment gateway for one-time payments.
+All user sessions will be logged out if the account changes password (security improvement).
+Fixed language preference not persisting when doing certain actions while logged in.
+Fixed language preference of a user being reset when re-logging in.
 
-# 3.1.0 — 26 June 2022
- - Added new payment gateway: Paystack (checkout using a credit card)
- - Added new payment gateway: Razorpay (checkout using a credit card)
- - Added new payment gateway: Crypto.com (checkout using a cryptocurrency)
- - Added Two-factor Authentication system
- - Added Webhooks on User Store, Update, and Delete events
- - Added both light and dark mode logos
- - Added the ability to create coupons with unlimited quantity number
- - Improved the dark mode
- - Updated all the dependencies to their latest versions
- - Fixed an issue that would immediately remove the User's plan features after cancellation
- - Fixed an issue that was preventing tracking Events with values between 0 and 1
- - Other minor improvements
+# Update 7.0.0 - 4 March, 2022
+Implemented Cookie Consent functionality, highly configurable via the admin panel and translation system.
+Implemented Discord login functionality, configurable via the admin panel.
+Fixed payment generation issue in some special cases for a few payment gateways.
+Multiple visual & functional improvements, bugfixes.
 
-# 3.0.0 — 18 April 2022
-- Added new filters on all table lists (column order, order direction, per page limits)
-- Added the ability to set the Plan's position on the Pricing listings
-- Added the ability to set custom CSS code based on the color scheme
-- Added the ability to block adding a Website containing certain keywords using the Bad Words filter
-- Improved the codebase (code refactoring)
-- Improved the CSV export functionality (it now includes the URL where the report was generated from)
-- Improved the table lists filters (improved flexibility)
-- Improved the API Documentation
-- Improved the translation strings
-- Improved the SEO capabilities side-wide by adding in-file head tags for all public pages
-- Improved the iconography
-- Fixed not being able to edit a User that was under a recurring subscription
-- Fixed user's content being deleted when the user would get suspended
-- Fixed the API Documentation URL path not pointing to the correct location
-- Fixed the Plans not ending when being cancelled on Stripe and PayPal
-- Other minor improvements
+# Update 6.1.0 - 16 February, 2022
+Implemented the ability to enable/disable a language via the admin panel.
+Implemented the ability to filter translated, non translated and all strings when editing a language via the admin panel.
+Fixed various new translation system issues.
+Small other visual improvements.
+Product rebranding from 22Vcard to 66vcard.
 
-# 2.9.0 — 12 December 2021
-- Added the ability to exclude entire IP classes using CIDR notation
-- Added contextual menus on all table lists
-- Updated all the dependencies to their latest versions
-- Fixed an issue with specific currencies that would prevent the Checkout from working
-- Fixed several missing language strings
-- Other minor improvements
+# Update 6.0.0 - 6 February, 2022
+Fully reworked the Languages & Translations system for much better performance, handling and usability.
+Implemented the ability to edit and translate Languages from the admin panel.
+Implemented Crypto.com one-time payment gateway.
 
-# 2.8.0 — 27 September 2021
-- Added translation ability for the Page title and description
-- Fixed an issue preventing redeeming coupons
-- Fixed an issue preventing changing the user's plan when no ending date was defined
-- Other minor improvements
+# Update 5.0.0 - 22 January, 2022
+Implemented user registration blacklist by country.
+Emojis in URL alias are now allowed for Vcards.
+Reworked the admin panel footer (added language switcher + theme switcher).
+Reworked the footer of the whole app.
+Reworked the plugin system so plugins won't lose their state anymore when updating.
+Improved UI for all tables on mobile.
+Improved UX workflow bug when skipping trial & introducing billing details.
+Improved responsiveness for account payments & logs pages.
+Improved color contrast in Dark mode.
+Fixed UI alignment issues on mobile.
+Fixed payment generation bug when using discount codes in some cases.
+Fixed admin panel settings UI menu bug.
+Fixed caching problem regarding Pixels when deleting pixels.
+Fixed & improved many other small UI issues.
 
-# 2.7.0 — 13 September 2021
-- Added email notification on successful Stripe, PayPal and Coinbase payments
-- Improved the UI & UX of the Log-in, Register, Password reset, Contact and Page pages
-- Fixed an issue that would display all tax rates on Checkout before the user would select his country
-- Fixed an issue causing Checkout not to work when no Coupon was provided
-- Fixed an issue causing Checkout interval switcher not to work
-- Fixed the tracking ability not resetting when redeeming a plan
-- Other minor improvements
+# Update 4.0.0 - 2 January, 2022
+Implemented a new Directory page for vcard pages.
+Improved the UX of impersonating a user, as an admin.
+Other small yet many improvements of the whole system.
 
-# 2.6.0 — 5 September 2021
-- Fixed the Pricing not showing up on the Home page unless Stripe was enabled
-- Fixed not being able to create new Plans
-- Fixed the Page links from the Footer not showing their name
-- Other minor improvements
+# Update 3.0.0 - 15 December, 2021
+Implemented the ability to set vcard blocks to open in a new page or not.
+Implemented a built-in Contact form page (can be enabled from the admin panel -> website settings -> email notifications).
+Implemented the ability to skip a trial when paying for a plan.
+Implemented the ability to block registrations from a particular email domain, from the admin panel.
+Implemented the ability to purge the cache from the admin panel.
+Implemented the ability to set the default data order (asc, desc) the admin panel.
+Implemented the ability to set the default pagination results the admin panel.
+Implemented the ability to set a custom 404 page from the admin panel.
+Implemented the ability to also export to PDF/print data from tables in the admin panel.
+Admin Codes - Implemented the ability to paginate, filter, export data.
+Admin Taxes - Implemented the ability to paginate, filter, export data.
+Improved the admin panel -> website settings -> main fields, separated them for more clarity.
+Improved the file upload error handling.
+Now reCaptcha and hCaptcha will follow the language that the user currently uses.
+Fixed a few bugs related to the system.
 
-# 2.5.0 — 3 September 2021
-- Added new payment gateway: PayPal (checkout using a PayPal account)
-- Added new payment gateway: Coinbase (checkout using a cryptocurrency)
-- Added new payment gateway: Bank (checkout using a bank transfer)
-- Improved the codebase (name convention refactoring)
-- Improved ARIA controls
-- Improved the Invoices (they are now immutable)
-- Improved the Installation process
-- Fixed the new Website form not including the Exclude URL query parameters form
-- Fixed the Stats API endpoint working with the website's URL rather than ID
-- Fixed an issue with passwords being trimmed when changed
-- Fixed several missing language strings
-- Other minor improvements
+# Update 2.0.0 - 20 November, 2021
+Implemented Yookassa one-time payments system.
+Implemented PayU one-time payments system.
+Implemented RazorPay one-time & recurring payments system.
+Implemented Mollie one-time & recurring payments system.
+Implemented Paystack one-time & recurring payments system.
+Implemented an Auto Cleanup functionality for old, inactive users. Can be activated and configured in the admin panel.
+Implemented email notifications for old & soon-to-be-deleted users, if the Auto Cleanup functionality is enabled.
+Implemented the ability to see the list of referred users of a particular user from the admin panel.
+Implemented the ability to set custom css and custom javascript for vcard pages only from the admin panel.
 
-# 2.4.0 — 26 March 2021
-- Added the ability to exclude URL query parameters from tracked pages
-- Improved the database structure (IDs are now unsigned)
-- Fixed several missing language strings
-- Other minor improvements
+# Update 1.4.0 - 5 November, 2021
+Implemented the ability to set a custom First Name, Last Name, Company name, Job title & Birthday for each Vcard.
+Small improvements to the QR code generator for each vcard as well.
+Updated all composer dependencies to their latest version.
+Small improvements to the API documentation.
 
-# 2.3.0 — 20 March 2021
-- Fixed the Stats API endpoint not returning results
-- Fixed the Stats API endpoint returning a success response even on missing resources
-- Fixed the tracking ability not resetting when manually assigning a plan
-- Other minor improvements
+# Update 1.3.0 - 21 October, 2021
+Dashboard vcards fix ordering, added logo image to the table for better looks.
+Fixed admin update page not working.
+Fixed address block not pointing to the proper google maps URL in some cases.
+Fixed vcard export problems caused by certain web-host settings.
+Fixed login, register pages visual bug.
+Fixed vcard page icons not properly displaying in safari.
 
-# 2.2.0 — 25 February 2021
-- Added Cronjob for automatic cache deletion
-- Fixed the pricing plans not showing Unlimited when pageviews set to -1
-- Fixed Sort by on Stats pages not working on paginated tables
-- Other minor improvements
+# Update 1.2.0 - 17 October, 2021
+Implemented & developed the new Image Optimizer Plugin -> Image Optimizer Plugin
+Fixed vcard blocks reordering problem.
+Vcard logos will now only be exported to the .vcf file if they are under 750KB (they can't be processed if larger).
+Fixed vcard blocks icon/text alignment issues.
+Fixed vcard blocks text not wrapping properly.
 
-# 2.1.0 — 29 January 2021
-- Added the ability to toggle password visibility for Websites
-- Improved the password encryption method for Websites
-- Other minor improvements
+# Update 1.1.0 - 15 October, 2021
+Implemented the ability to enable/disable the QR code builder on a per-plan basis, via the admin panel.
+Fixed vcard blocks reordering problem.
+Fixed vcard blocks caching related problem.
+Fixed vcard blocks enable/disable functionality.
+Fixed admin not being able to delete Vcards blocks.
 
-# 2.0.0 — 25 January 2021
-- Added PostCSS support
-- Added context menu on Stats pages
-- Added Delete option in the website's context menu on Dashboard
-- Improved the CSS filesize (removed all unused CSS rules)
-- Improved the API (added status code for the websites listing)
-- Updated all the dependencies to their latest versions
-- Fixed unknown countries not displaying an icon
-- Other minor improvements
-
-# 1.9.0 — 14 January 2021
-- Updated all the dependencies to their latest versions
-- Fixed the Developers link missing from the footer
-- Other minor improvements
-
-# 1.8.0 — 5 January 2021
-- Added the ability to hide the Default (free) plan
-- Improved the tooltips on charts (added dark mode support)
-- Other minor improvements
-
-# 1.7.0 — 2 January 2021
-- Fixed the monthly email reports not including the stats count
-- Fixed sending email reports when no websites had email notifications enabled
-- Other minor improvements
-
-# 1.6.0 — 1 January 2021
-- Improved the Export functionality (added additional information to the file and filename)
-- Updated all the dependencies to their latest versions
-- Other minor improvements
-
-# 1.5.0 — 29 December 2020
-- Added Total stats for tables on each stats category
-- Added new social network source (Pinterest)
-- Added the ability to search trough stats resources via API
-- Added the ability to sort the stats resources via API
-- Added the ability to set custom pagination results value via API
-- Improved the JS tracking code (reduced its size even further)
-- Improved the SEO for the Home page
-- Fixed an issue that was reporting pageviews as visitors in a specific scenario
-- Fixed several timestamps showing wrong minutes value
-- Other minor improvements
-
-# 1.4.0 — 16 December 2020
-- Added decimal support for Events that have a unit value
-- Added support for both www and non-www tracking with a single domain entry
-- Fixed the live chart showing NaN when the value of visitors was 0
-- Other minor improvements
-
-# 1.3.0 — 15 December 2020
-- Improved email template (added support for wide aspect logos)
-- Improved the checkout process (you can now cancel the coupon adding process)
-- Fixed an issue that was preventing the Check cronjob from executing
-- Fixed the tracking ability not resetting when subscribing to a plan
-- Other minor improvements
-
-# 1.2.0 — 12 December 2020
-- Fixed an issue preventing the deletion of websites
-- Fixed an issue that removed the js source path from the tracking code
-- Other minor improvements
-
-# 1.1.0 — 10 December 2020
-- Added support for CDN hosted tracking code
-- Added automatic language switching when the language is availabl
-- Added modal to the Export functionality
-- Improved RTL support
-- Fixed stats data not being removed when a user is being deleted
-- Fixed stats data not being removed when a user is being deleted
-
-# 1.0.0 — 1 December 2020
-- Initial release
+# Initial release - 14 October, 2021

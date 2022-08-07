@@ -1,4 +1,4 @@
-# <img align="left" alt="Tizza" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Tizza ([Click to try 🚀](https://tizza.tk/))
+# <img align="left" alt="Tizza" width="40px" src="https://tizza.tk/uploads/main/a8ecd2778d738edd16839bdb6cccb22d.png" draggable="false" /> Tizza ([Click to try 🚀](https://tizza.tk/))
 
 Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 

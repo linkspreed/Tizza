@@ -15,38 +15,27 @@ Create your own vCard 🪪 quickly and easily with Tizza 🚀 and get meaningful
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
+**UNLIMITED VCARDS** – Users can create unlimited vCard pages from one single account.
 
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
+**4 VCARD THEMES** – You get 4 included, beautiful and performant Vcard page themes.
 
-**EXPORT** – Export your statistics & analytics reports in CSV format.
+**VCARD QR BUILDER** – You’ll be able to generate custom QR Codes for each vcard as well.
 
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
+**UNLIMITED PROJECTS (CATEGORIES)** – That users can create to manage and categorize their Vcard pages.
+
+**ADVANCED STATISTICS** – All vcards get detailed statistics regarding their visitors which access their pages.
+
+**LOGIN WITH FACEBOOK / GOOGLE / TWITTER / DISCORD** – To help users login to your website faster.
+
+**TWO FACTOR AUTHENTICATION** – To help your users with their account security.
+
+**DARK MODE**
+
+**RTL LANGUAGES SUPPORT**
+
+**SEO FRIENDLY** – Proper URLs, dynamic titles, highly controllable via per language.
+
+**SITEMAP** – The full sitemap is automatically generated for you and ready to be used.
 
 **AND SO MUCH MORE ...**
 
@@ -68,17 +57,17 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
 ## 📷 UI
 
 
-### Privacy focused web analytics
+### Welcome
 <img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/1.PNG" draggable="false" />
 
-### Analytics
+### Create your account
 <img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/2.PNG" draggable="false" />
 
-### Register now
+### Demo vCard
 <img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/3.PNG" draggable="false" />
 
 ### Dashboard
 <img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/4.PNG" draggable="false" />
 
-### Add a new website
+### Start now ...
 <img align="center" alt="Tizza" width="3000px" src="https://github.com/linkspreed/Tizza/blob/main/screenshots/5.PNG" draggable="false" />

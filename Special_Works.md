@@ -1,3 +1,6 @@
+### 26.03.2023 (announcement Tizza)
+- 👨‍💻 Currently pounding away at Tizza v10! 💻🔨 #softwaredevelopment #codinglife 🚀
+
 # 05.08.2022
 - CHECK IT OUT 🥳🥳🥳
 - https://tizza.tk/

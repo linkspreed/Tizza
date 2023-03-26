@@ -1,4 +1,4 @@
-# <img align="left" alt="Tizza" width="100px" src="https://tizza.tk/uploads/main/a8ecd2778d738edd16839bdb6cccb22d.png" draggable="false" /> Tizza ([Click to try 🚀](https://tizza.tk/))
+# <img align="left" alt="Tizza" width="100px" src="https://tizza.tk/uploads/main/a8ecd2778d738edd16839bdb6cccb22d.png" draggable="false" /> Tizza ([Click to try 🚀](https://tizza.tk/)) (v9.0.0)
 
 Create your own vCard 🪪 quickly and easily with Tizza 🚀 and get meaningful analyzes of the visitors. 📊
 

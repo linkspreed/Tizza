@@ -1,3 +1,6 @@
+### 01.07.2023 (announcement Tizza)
+- 🎉🌐 Exciting news, folks! We've just added Tizza to our Subdomain system! 😎✨🔀 Check it out ➡️ https://tizza.tk, which now redirects you to https://tizza.linkspreed.com. Same fantastic platform, just a technical upgrade in the background. 🖥️💯 #SubdomainSystem #UpgradeQuestion: Have you already explored our enhanced Tizza experience? Let us know what you think! 😊✍️👇
+
 ### 26.03.2023 (announcement Tizza)
 - 👨‍💻 Currently pounding away at Tizza v10! 💻🔨 #softwaredevelopment #codinglife 🚀
 
